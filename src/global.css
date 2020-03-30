@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  outline: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 400 14px Roboto, sans-serif;
+  background: #2E3146;
+  -webkit-font-smoothing: antialiased;
+}
+
+input, button, textarea {
+  font: 400 18px Roboto, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
