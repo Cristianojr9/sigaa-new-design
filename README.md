@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Logon Page 
 
-[https://github.com/Cristianojr9/sigaa-new-design/blob/master/src/assets/sigaa.png]
+<img src="/src/assets/sigaa.png">
 
 ## Available Scripts
 
