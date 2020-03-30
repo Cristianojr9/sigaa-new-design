@@ -1,0 +1,260 @@
+.container {
+  width: 100%;
+  height: 975px;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.side-bar {
+  width: 119px;
+  height: 100%;
+}
+
+.side-bar button {
+  background: transparent;
+  border: none;
+}
+
+.side-bar .initial-bottom {
+  margin-top: 55px;
+  width: 100%;
+}
+
+.side-bar .bottom {
+  margin-top: 0px;
+  margin-top: 460px;
+  margin-left: 45px;
+}
+
+.side-bar h1 {
+  text-align: center;
+  color: #fafafa;
+  font-weight: lighter;
+  font-size: 24px;
+  margin-top: 26px;
+  margin-bottom: 0;
+}
+
+.dashboard {
+  background: #222434;
+  width: 100%;
+  height: 100%;
+
+  display: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.dashboard img{
+  margin-left: 72px;
+  margin-right: 100px;
+  margin-top: -20px;
+}
+
+.dashboard .header {
+  display: flex;
+  margin-top: 10px;
+}
+
+.dashboard h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  color: #ffff;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.dashboard .header input {
+  height: 53px;
+  width: 279px;
+  background: #2E3146;
+  border: none;
+  border-radius: 12px;
+  color: #252738;
+  font-size: 17px;
+  margin-left: 10px;
+}
+
+.dashboard .header h1 {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: lighter;
+}
+
+.turmas {
+  margin-left: -30px;
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 0 100px;
+  list-style: none;
+  color: #FFFFFF;
+  font-weight: lighter;
+}
+
+.turmas img{
+  margin-left: 27px;
+  margin-top: 0px;
+  margin-right: 0px;
+} 
+
+.turmas ul {
+  margin-bottom: 20px;
+}
+
+.turmas ul li {
+  width: 401px;
+  height: 225px;
+  list-style: none;
+  background: #2E3146;
+  border-radius: 16px;
+  position: relative;
+  padding: 20px 0;
+}
+
+.turmas ul li p {
+  font-size: 20px;
+  font-weight: lighter;
+  margin-left: 23px;
+  margin-top: px;
+}
+
+.turmas strong {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.turmas ul li strong p {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.turmas ul li strong .horario {
+  margin-left: 5px;
+}
+
+.turmas ul li strong .sala {
+  margin-right: 27px;
+}
+
+.profile {
+  height: 100%;
+  width: 430px;
+  margin-top: 0px;
+}
+
+.profile .dados h1 {
+  font-size: 30;
+  color: #fff;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+
+.profile .dados img {
+  margin-top: 15px;
+  margin-left: 125px;
+}
+
+.profile .dados p {
+  text-align: center;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 10px;
+  border-color: rgb(255, 255, 255);
+}
+
+.profile .dados h2 {
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+}
+
+.profile .dados .linha {
+  margin-left: 0;
+}
+
+.dados-profile {
+  margin-left: 22px;
+  margin-top: 30px;
+  line-height: 30px;
+}
+
+.dados-profile p {
+  color: rgba(255, 255, 255, 0.493);
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.dados-profile h2 {
+  color: #fff;
+  font-size: 21px;
+  font-weight: bolder;
+}
+
+.group-dados h2 {
+  margin-top: 0px;
+  margin-left: 70%;
+}
+
+.group-dados p {
+  margin-top: -60px;
+  margin-left: 70%;
+}
+
+.timeline {
+  margin-top: 30px;
+}
+
+.timeline img {
+  margin-top: 10px;
+  margin-left: 17px;
+  padding: 4px;
+}
+
+.timeline h1 {
+  font-size: 30px;
+  font-weight: bolder;
+  color: #fff;
+  margin-left: 22px;
+}
+
+.timeline h3 {
+  margin-top: 10px;
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.description {
+  margin-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 72px;
+  max-width: 75%;
+}
+
+.timeline h2 {
+  font-size: 13px;
+  color: #fff;
+  font-weight: lighter;
+  margin-left: 72px;
+  margin-top: -35px;
+}
+
+.timeline p {
+  font-size: 10px;
+  font-weight: lighter;
+  color: rgba(255, 255, 255, 0.472);
+}
+

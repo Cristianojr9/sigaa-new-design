@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+  <g id="Grupo_33" data-name="Grupo 33" transform="translate(0.274 0.282)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="21.5" cy="21.5" r="21.5" transform="translate(-0.274 -0.282)" fill="#9e21fd" opacity="0.13"/>
+    <g id="Grupo_16" data-name="Grupo 16" transform="translate(9.219 9.813)">
+      <path id="Caminho_25" data-name="Caminho 25" d="M1040.278,315.436v9.118a.9.9,0,1,0,1.805,0v-9.118a4.514,4.514,0,1,0-1.805,0Zm.9-7.131a2.708,2.708,0,1,1-2.708,2.708A2.711,2.711,0,0,1,1041.181,308.305Z" transform="translate(-1029.445 -306.5)" fill="#8f00fc"/>
+      <path id="Caminho_26" data-name="Caminho 26" d="M1039.516,329.289a.9.9,0,0,0-.208,1.793c4.4.512,7.025,2.078,7.025,3.3,0,1.445-3.778,3.46-9.93,3.46s-9.93-2.016-9.93-3.46c0-1.2,2.577-2.753,6.89-3.28a.9.9,0,1,0-.218-1.792c-5.15.629-8.478,2.62-8.478,5.072,0,3.42,6.047,5.266,11.736,5.266s11.736-1.846,11.736-5.266C1048.138,331.9,1044.754,329.9,1039.516,329.289Z" transform="translate(-1024.667 -315.572)" fill="#8f00fc"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="360" viewBox="0 0 1240 360">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.426" y1="-0.681" x2="0.984" y2="1.028" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8f00fc"/>
+      <stop offset="1" stop-color="#8104a5"/>
+    </linearGradient>
+    <filter id="bg" x="65.207" y="192.853" width="204.782" height="122.666" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.286" dy="1.532" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-color="#ccccdf" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="-6.662" y1="0.5" x2="-7.662" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d6969b"/>
+      <stop offset="0.992" stop-color="#fab9be"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-8.891" y1="0.215" x2="-9.572" y2="0.847" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#50a4fa"/>
+      <stop offset="1" stop-color="#1d43b8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-16.945" y1="0.191" x2="-17.238" y2="0.952" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d43b8"/>
+      <stop offset="0.992" stop-color="#16348f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="-17.252" y1="-0.24" x2="-18.882" y2="1.038" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4399f0"/>
+      <stop offset="1" stop-color="#1d43b8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="-9.307" y1="0.165" x2="-10.081" y2="0.724" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fab9be"/>
+      <stop offset="0.992" stop-color="#fab9be"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="-27.323" y1="0.5" x2="-28.324" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.008" stop-color="#fab9be"/>
+      <stop offset="0.335" stop-color="#f6b5ba"/>
+      <stop offset="0.673" stop-color="#e9a9ae"/>
+      <stop offset="1" stop-color="#d6969b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="-12.148" y1="-0.723" x2="-13.408" y2="0.702" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fab9be"/>
+      <stop offset="0.992" stop-color="#d6969b"/>
+    </linearGradient>
+    <filter id="bg-2" x="216.148" y="192.853" width="204.782" height="122.666" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.286" dy="1.532" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur-2"/>
+      <feFlood flood-color="#ccccdf" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-3" x="367.089" y="192.812" width="204.782" height="122.666" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.286" dy="1.532" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur-3"/>
+      <feFlood flood-color="#ccccdf" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_10601" data-name="Grupo 10601" transform="translate(-503.863 -14.717)">
+    <g id="Grupo_10598" data-name="Grupo 10598" transform="translate(503.863 14.717)">
+      <g id="Retângulo_9" data-name="Retângulo 9" transform="translate(0 42)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+        <path d="M0,0H1110a130,130,0,0,1,130,130V318a0,0,0,0,1,0,0H130A130,130,0,0,1,0,188V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H1110A129.5,129.5,0,0,1,1239.5,130V317a.5.5,0,0,1-.5.5H130A129.5,129.5,0,0,1,.5,188V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+      <text id="How_do_you_define_yo" data-name="How do you define yo" transform="translate(105 118)" fill="#fff" font-size="23" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Olá eu sou Fulano, aqui estão</tspan><tspan x="0" y="34">suas funções mais utilizadas. Que tal ir direto</tspan><tspan x="0" y="68">ao ponto?!</tspan></text>
+      <g id="button_post_a_job_active_hover_" data-name="button post a job ( active hover )" transform="translate(104.922 232.321)">
+        <g transform="matrix(1, 0, 0, 1, -104.92, -232.32)" filter="url(#bg)">
+          <rect id="bg-4" data-name="bg" width="122.782" height="40.666" rx="20.333" transform="translate(104.92 232.32)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+        <text id="Frequencia" transform="translate(22.449 22.927)" fill="#fff" font-size="12" font-family="Roboto, sans-serif" font-weight="700"><tspan x="0" y="0">Frequencia</tspan></text>
+      </g>
+      <g id="Grupo_10597" data-name="Grupo 10597" transform="translate(724.208 0)">
+        <path id="Caminho_1891" data-name="Caminho 1891" d="M244.113,314.941c-12.477,5.706-33.236,1.6-24.733-17.686,9.149-20.759,23.567-41.021,39.406-58.91,19.1-21.571,46.351-50.449,65.578-63.608,37.329-25.554,34.938,16.061,29.346,33.356-8.086,25.042-36.206,47.312-57.135,67.022C280.115,290.615,257.722,308.715,244.113,314.941Z" transform="translate(-82.483 -31.202)" fill="#50a4fa"/>
+        <path id="Caminho_1892" data-name="Caminho 1892" d="M340.852,166.74a82.237,82.237,0,0,1-2.273,20.506c-6.945,27.383-34.2,53.627-54.326,76.5-15.831,17.987-37.517,39.29-50.922,47.149a26.717,26.717,0,0,1-15.941,3.487c5.592,3.877,15.15,3.755,22.12.569,13.609-6.218,36-24.326,52.462-39.826,20.929-19.71,49.049-41.98,57.135-67.022C353.295,195.122,355.687,168.447,340.852,166.74Z" transform="translate(-77.871 -31.22)" fill="#1d43b8"/>
+        <path id="Caminho_1893" data-name="Caminho 1893" d="M489.929,330.57c-11.762-3.268-58.113-38.2-75.246-49.23-3.1-1.991-15.822-11.16-22.58-12.72-9.83-2.276-21.465-1.357-26.376-4.1-5.447-3.048-20.384-19.206-19.371-21.612.987-2.349,11.558,6.933,17.567,10.818,2.7,1.739,5.4,1.755,8.443,1.666,3.66-.114,7.558-.406,10.222-.618,1.932-.154,3.243-.585,3.1-1.309-.238-1.187-.255-1.747-2.477-2.747-2.621-1.17-9.4-2.341-11.218-3.706-1.966-1.479-1.6-2.04.5-1.788,3.336.406,11.133,1.073,16.614,2.763a24.543,24.543,0,0,1,7.489,4.129c5.643,4.113,6.784,8.006,13.4,11.322,27.363,13.72,65.816,26.139,83.442,33.99,8.766,3.9,18.895,13.492,17.311,25.172C510.091,327.539,501.631,333.821,489.929,330.57Z" transform="translate(-346.306 -45.409)" fill="url(#linear-gradient-2)"/>
+        <path id="Caminho_1894" data-name="Caminho 1894" d="M246.408,387.856H76.348s2.221-45.15,0-83.708c-2.281-39.542-6.843-74.394,2.23-105.5,3.013-10.33,8.613-25.464,27.312-33.926,13.32-6.031,40.462-14.11,63.356-13.874a137.8,137.8,0,0,1,50.139,10.46c26.835,11.143,26.359,22.441,28.121,37.079,4.145,34.364-3.353,83.5-3.353,127.021C244.152,361.01,246.408,387.856,246.408,387.856Z" transform="translate(148.542 -28.244)" fill="url(#linear-gradient-3)"/>
+        <path id="Caminho_1895" data-name="Caminho 1895" d="M170.3,332.075c0,35.608,2.247,62.454,2.247,62.454H73.166c25.72-5.844,61.756-12.265,64.25-40.98,1.183-13.76-6.4-27.44-8.213-41.07-1.847-13.882-.8-25.968,5.124-37.794,5.694-11.4,9.107-24.075,5.694-39.176-1.583-6.917-7.149-15.557-8.783-22.417-5.949-24.871,10.179-32.739,30.64-21.766,3.464,1.853,7.66,4.292,10.92,6.51.323,2.308.553,4.73.86,7.226C177.793,239.418,170.3,288.55,170.3,332.075Z" transform="translate(222.391 -34.917)" fill="url(#linear-gradient-4)"/>
+        <path id="Caminho_1896" data-name="Caminho 1896" d="M105.209,317.826c1.277,23.172-26.223,18.141-39.159-.5-10.639-15.337-14.588-29.106-26.163-54.562C28.141,236.93,17.094,229.168,8.94,206.832c-7.32-20.059-14.562-52.9,22.75-33.576C74.441,195.4,102.8,274.236,105.209,317.826Z" transform="translate(351.727 -31.34)" fill="url(#linear-gradient-5)"/>
+        <path id="Caminho_1897" data-name="Caminho 1897" d="M169.66,355.582c-11.328,0-64.505-23.741-86.447-31.886-3.753-1.39-16.894-6.917-24.376-6.99-10.886-.106-24.367,2.316-30.24.626-7.72-2.219-24.214-13.443-24.81-16.54-1.166-6.055,37.568-5.015,37.568-5.015s-12.435-9.648-5.617-8.616c6.954,1.057,13.286,1.91,18.154,5.153,5.115,3.406,14.094,11.314,21.839,13.395,31.491,8.461,66.4,9.444,82.166,13.565,9.532,2.5,19.695,9.794,22.81,17.459C182.562,341.318,188.18,355.582,169.66,355.582Z" transform="translate(273.395 -53.751)" fill="url(#linear-gradient-6)"/>
+        <path id="Caminho_1898" data-name="Caminho 1898" d="M196.428,140.742l-3.464-.691a9.817,9.817,0,0,1-8.2-8.924c-1.209-19.938-2.86-49.9-2.86-49.9h-34.9v52.424a7.844,7.844,0,0,1-6.392,7.551c-1.489.317-2.962.642-4.417.992a7.37,7.37,0,0,0-.323,2.235c0,8.534,13.073,15.451,29.193,15.451S199.228,152.625,196.428,140.742Z" transform="translate(147.137 -15.211)" fill="url(#linear-gradient-7)"/>
+        <path id="Caminho_1899" data-name="Caminho 1899" d="M187.869,112.6c-3.89,10.534-15.49,21.287-28.529,20.669a19.8,19.8,0,0,1-8.12-2.113V81.21h34.887C186.115,81.21,186.966,96.572,187.869,112.6Z" transform="translate(142.927 -15.207)" fill="#bf8286"/>
+        <path id="Caminho_1900" data-name="Caminho 1900" d="M203.37,68.43c-5.4,24.806-16.877,31.8-28.24,31.8-11.89,0-19.09-4.958-22.682-28.7-3.873-25.554-1.8-35.153,13.626-40.639,6.545-2.325,23.244-2.552,30.921,4.779C203.762,42.12,205.413,59.051,203.37,68.43Z" transform="translate(126.997 -5.516)" fill="#fab9be"/>
+        <path id="Caminho_1901" data-name="Caminho 1901" d="M217.623,29.123c-1.277-9.518-7.634-16.833-15.967-14.256-4.6-6.7-14.111-10.022-19.448-11.663C175.221,1.057,162.488-1.032,155.05.57c-7.932,1.707-9.856,6.8-.911,9.266a32.013,32.013,0,0,0-11.388,8c-2.332,2.666-6.068,11.582,2.477,11.355-3.515,9.241,6.026,16.345,10.324,18.491-.911-8.949,3.107-15.175,7.43-16.5,6.434-1.975,21.848-1.2,28.665,3.4,9.192,6.2,9.379,22.538,8.63,27.862-.255,1.8-6.485,9.892-14.835,9.892-3.821,0-7.677-2.8-12.69-2.8-4.613,0-6.222,2.227-9.8,2.227-5.353,0-5.353-8.477-6.46-8.827-3.473-1.081-7.8,10-7.8,25.44,0,13.135,8.486,25.432,20.793,25.432,14.248,0,23.116-5.267,29.618-13.11,7.839-9.469,7.592-22.652,6.111-34.665a26.6,26.6,0,0,0,7.507-9.119C216.227,48.288,218.832,38.12,217.623,29.123Z" transform="translate(122.507 -0.004)" fill="#1e2859"/>
+        <path id="Caminho_1902" data-name="Caminho 1902" d="M198.059,96.878c0,.691-4.06,2.422-9.064,2.422s-9.064-1.967-9.064-2.918c0-.634,4.06-.179,9.064-.179S198.059,96.074,198.059,96.878Z" transform="translate(108.292 -17.985)" fill="#fff"/>
+        <path id="Caminho_1903" data-name="Caminho 1903" d="M153.12,70.714c-.766,5.145-5.26,10.2-8,9.4-2.23-.642-2.332-4.21-2.2-9.4.119-4.9.834-9.4,4.17-9.4S154.039,64.529,153.12,70.714Z" transform="translate(184.636 -11.481)" fill="#d6969b"/>
+        <path id="Caminho_1904" data-name="Caminho 1904" d="M134.9,361.218c-5.388,2.39-11.167,1.455-15.975.366-11.464-2.585-22.248-8-32.938-12.582-14.622-6.267-29.261-12.639-44.087-18.45-6.477-2.536-16.094-6.169-23.048-7.209-4.758-.707-15.916.951-14.886-.276,2.426-2.885,16.239-3.6,24.495-1.666,11.89,2.788,20.086,5.039,37.542,13.525,26.8,13.021,52.964,23.359,71.936,18.816C143.6,352.384,140.042,358.935,134.9,361.218Z" transform="translate(315.422 -59.972)" fill="url(#linear-gradient-8)"/>
+        <path id="Caminho_1905" data-name="Caminho 1905" d="M202.815,268.21l-32.665,3.519,15.116,24.034,32.665-3.527Z" transform="translate(96.742 -50.217)" fill="#1e2859"/>
+        <path id="Caminho_1906" data-name="Caminho 1906" d="M57.587,355.651c-2.426,1.252,0-8.16-5.166-16.646-5.158-8.469-13.209-11.59-20.724-14.329-7.013-2.56-16.835-3.219-25.21-5.007-19.448-4.137,9.89-11.826,21.72-10.964,16.673,1.219,28.359,3.365,31.321,21.271C60.217,334.169,61.153,353.806,57.587,355.651Z" transform="translate(399.391 -57.786)" fill="#fff"/>
+        <path id="Caminho_1907" data-name="Caminho 1907" d="M335.762,340.809c-.775-2.008,7.924-3.812,9.4-9.891,1.813-7.413-4.962-17.629-11.073-22.969-3.847-3.365-2.587-8.014-.774-11.371,2.621-4.852,5.651-11.623,12.366-8.03,8.571,4.584,14.928,16.215,16.988,22.327,1.864,5.511,3.081,16.052,1.532,19.994C360.929,339.216,337.429,345.133,335.762,340.809Z" transform="translate(-187.7 -53.835)" fill="#fff"/>
+        <path id="Caminho_1908" data-name="Caminho 1908" d="M208.77,70.8a.385.385,0,0,0-.043-.163.4.4,0,0,0-.077-.146c-.017-.016-.009-.033-.026-.049a2.423,2.423,0,0,1-.63-3.113c.009-.016,0-.033.017-.041a.332.332,0,0,0,.043-.163.3.3,0,0,0,.017-.171c0-.016.008-.024.008-.041-.017-.049-.06-.065-.085-.106a.57.57,0,0,0-.068-.122c-.017-.008-.034,0-.043-.016a.365.365,0,0,0-.162-.041.369.369,0,0,0-.187-.016c-.017,0-.026-.008-.043-.008a2.227,2.227,0,0,0-1.566,2.357,2.5,2.5,0,0,0,2.332,2.268c.026,0,.051.008.077.008a.477.477,0,0,0,.332-.146c.008-.008.025-.008.034-.016.025-.024.017-.065.034-.1a.408.408,0,0,0,.077-.13C208.787,70.836,208.77,70.82,208.77,70.8Z" transform="translate(75.41 -12.474)" fill="#1e2859"/>
+        <path id="Caminho_1909" data-name="Caminho 1909" d="M180.8,71.154a.386.386,0,0,0-.043-.163.408.408,0,0,0-.077-.146c-.017-.016-.008-.032-.026-.049a2.423,2.423,0,0,1-.63-3.113c.008-.016,0-.033.017-.041a.33.33,0,0,0,.043-.163.3.3,0,0,0,.017-.171c0-.016.008-.024.008-.041-.017-.049-.06-.065-.085-.106a.576.576,0,0,0-.068-.122c-.017-.008-.034,0-.043-.016a.366.366,0,0,0-.162-.041.369.369,0,0,0-.187-.016c-.017,0-.026-.008-.043-.008a2.227,2.227,0,0,0-1.566,2.357,2.5,2.5,0,0,0,2.332,2.268c.026,0,.051.008.077.008a.477.477,0,0,0,.332-.146c.009-.008.025-.008.034-.016.025-.024.017-.065.034-.1a.408.408,0,0,0,.077-.13C180.809,71.186,180.792,71.178,180.8,71.154Z" transform="translate(127.196 -12.539)" fill="#1e2859"/>
+        <path id="Caminho_1910" data-name="Caminho 1910" d="M193.019,180.929l13.533-11.143c-2.46-.967-7.039-2.926-8.877-4.381-3.447-2.731-6.2-5.3-5.09-11.68.443-2.544,5.711-4.893,1.183-4.885a9.573,9.573,0,0,0-8.009,4.454c-1.728,3.04-2.17,7.575-1.8,10.867C184.662,170.436,188.551,176.263,193.019,180.929Z" transform="translate(96.468 -27.869)" fill="#fff"/>
+        <path id="Caminho_1911" data-name="Caminho 1911" d="M171.617,153.175c-1.541-3.983-3.975-.975-4.179-.244-1.609,5.9-4.477,9.493-11.3,12.98a44.5,44.5,0,0,1-19.567,4.7,18.822,18.822,0,0,0-2.315.024L145.4,184.117C158.093,179.6,175.345,166.431,171.617,153.175Z" transform="translate(173.11 -28.302)" fill="#fff"/>
+        <path id="Caminho_1912" data-name="Caminho 1912" d="M185.644,62.782c-5.643-3.958-14.443-4.251-20.052-.853a2.457,2.457,0,0,0-.187,1.626.472.472,0,0,0,.4.211.487.487,0,0,0,.255-.073,19.173,19.173,0,0,1,19.09-.13.45.45,0,0,0,.247.065c.026,0,.051-.016.077-.016s.043-.008.068-.016a.463.463,0,0,0,.264-.187A.474.474,0,0,0,185.644,62.782Z" transform="translate(132.909 -11.158)" fill="#1e2859"/>
+        <path id="Caminho_1913" data-name="Caminho 1913" d="M211.448,81.022c-2.051-.187-4.409-.732-5.03-1.5a.464.464,0,0,1-.119-.4c.221-1.292.485-2.576.774-3.926.494-2.357,1.047-5.031,1.472-8.331.238-1.845-.315-3.926-2.451-4.5.034-.244-.17-.8-.426-.821-6.3-.731-10.017.488-11.8,1.821-.034.024-.034.065-.051.089a.368.368,0,0,0-.085.146.348.348,0,0,0-.009.163c0,.041-.017.073-.009.106s.043.033.051.057,0,.049.017.073.06.016.085.041a.473.473,0,0,0,.2.1c.034.008.051.041.085.041s.06-.024.094-.033.043.008.068,0a24.482,24.482,0,0,1,11.218-1c2.289.382,2.153,2.853,2.06,3.6-.417,3.267-.97,5.917-1.455,8.258-.281,1.357-.553,2.658-.775,3.958a1.361,1.361,0,0,0,.306,1.1c1.072,1.333,4.63,1.756,5.694,1.853h.043a.472.472,0,0,0,.477-.415A.462.462,0,0,0,211.448,81.022Z" transform="translate(82.734 -11.483)" fill="#1e2859"/>
+      </g>
+      <g id="Elipse_88" data-name="Elipse 88" transform="translate(428.086 76.169)" fill="none" stroke="#fff" stroke-width="8" opacity="0.154">
+        <ellipse cx="24.874" cy="23.754" rx="24.874" ry="23.754" stroke="none"/>
+        <ellipse cx="24.874" cy="23.754" rx="20.874" ry="19.754" fill="none"/>
+      </g>
+      <g id="Elipse_89" data-name="Elipse 89" transform="translate(46.988 273.315)" fill="none" stroke="#fff" stroke-width="6" opacity="0.154">
+        <ellipse cx="20.894" cy="19.953" rx="20.894" ry="19.953" stroke="none"/>
+        <ellipse cx="20.894" cy="19.953" rx="17.894" ry="16.953" fill="none"/>
+      </g>
+      <g id="button_post_a_job_active_hover_2" data-name="button post a job ( active hover )" transform="translate(255.863 232.321)">
+        <g transform="matrix(1, 0, 0, 1, -255.86, -232.32)" filter="url(#bg-2)">
+          <rect id="bg-5" data-name="bg" width="122.782" height="40.666" rx="20.333" transform="translate(255.86 232.32)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+        <text id="Notas" transform="translate(40.107 21.927)" fill="#fff" font-size="11" font-family="Roboto, sans-serif" font-weight="700"><tspan x="0" y="0">Notas</tspan></text>
+      </g>
+      <g id="button_post_a_job_active_hover_3" data-name="button post a job ( active hover )" transform="translate(406.804 232.28)">
+        <g transform="matrix(1, 0, 0, 1, -406.8, -232.28)" filter="url(#bg-3)">
+          <rect id="bg-6" data-name="bg" width="122.782" height="40.666" rx="20.333" transform="translate(406.8 232.28)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+        <text id="Atestado_de_matricula" data-name="Atestado
+de matricula" transform="translate(60.954 19.069)" fill="#fff" font-size="10" font-family="Roboto, sans-serif" font-weight="700"><tspan x="-22.51" y="0">Atestado</tspan><tspan x="-31.716" y="9">de matricula</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_10600" data-name="Grupo 10600" transform="translate(1077.219 330.099)">
+      <ellipse id="Elipse_90" data-name="Elipse 90" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(-0.356 -0.382)" fill="#fff"/>
+      <ellipse id="Elipse_90-2" data-name="Elipse 90" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(17.644 -0.382)" fill="#6906a2"/>
+      <ellipse id="Elipse_90-3" data-name="Elipse 90" cx="6" cy="5" rx="6" ry="5" transform="translate(34.644 -0.382)" fill="#6906a2"/>
+    </g>
+  </g>
+</svg>
